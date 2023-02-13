@@ -3,7 +3,7 @@
 </div>
 
 
-#### Hi there, i'm Evangelos Barmpalias👋
+## Hi there, i'm Evangelos Barmpalias👋
 ---
 
 ### 👨‍💻: About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Greece.
