@@ -1,11 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100"/>
-</div>
-
 <div align="center">
   <img src="https://media.istockphoto.com/id/1204740322/photo/cpu.jpg?s=612x612&w=0&k=20&c=DSjrMlrtuD42yC5XHtpoc2mqGEYEjk-B-JTDK4McTK8=" width="600" height="300"/>
 </div>
 
+
+#### Hi there, i'm Evangelos Barmpalias👋
 ---
 
 ### 👨‍💻: About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Greece.
