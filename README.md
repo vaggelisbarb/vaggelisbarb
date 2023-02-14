@@ -13,8 +13,10 @@
 - ⚡: In my free time, I solve programming problems and read tech articles.
 
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vaggelisbarb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-barmpalias-488b3b18b/)
-- 
-- 🖥️: Programming Languages :
+
+---
+
+### 🖥️: Programming Languages :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;
