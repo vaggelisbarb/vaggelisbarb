@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://media.istockphoto.com/id/1204740322/photo/cpu.jpg?s=612x612&w=0&k=20&c=DSjrMlrtuD42yC5XHtpoc2mqGEYEjk-B-JTDK4McTK8=" width="600" height="300"/>
+  <img src="https://media.istockphoto.com/id/1204740322/photo/cpu.jpg?s=612x612&w=0&k=20&c=DSjrMlrtuD42yC5XHtpoc2mqGEYEjk-B-JTDK4McTK8=" width="600" height="220"/>
 </div>
 
 
-## Hi there, i'm Evangelos Barmpalias👋
+## Hi there, I'm Evangelos Barmpalias👋
 ---
 
 ### 👨‍💻: About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Greece.
@@ -14,6 +14,7 @@
 
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vaggelisbarb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-barmpalias-488b3b18b/)
 - 
+- 🖥️: Programming Languages :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="30" height="30"/>&nbsp;
