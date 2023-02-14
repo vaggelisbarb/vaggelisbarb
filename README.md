@@ -8,9 +8,9 @@
 
 ### 👨‍💻: About Me : I am a Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> from Greece.
 
-- 🔍: Exploring Technical Content Writing.
+- 🔍: Exploring Software Development in Java.
 
-- ⚡: In my free time, I solve programming problems and read tech articles.
+- ⚡: I give lectures in Computer Architecture.
 
 - 📫: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vaggelisbarb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-barmpalias-488b3b18b/)
 
