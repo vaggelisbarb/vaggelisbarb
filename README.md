@@ -10,8 +10,7 @@
 - 🔹 **Lecturer in Computer Architecture**  
 - 🔹 Currently **exploring new technologies** and improving my skills  
 
-📫 **How to reach me**:  
-[![Linkedin Badge](https://img.shields.io/badge/-vaggelisbarb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-barmpalias-488b3b18b/)  
+📫 **How to reach me**:  [![Linkedin Badge](https://img.shields.io/badge/-vaggelisbarb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-barmpalias-488b3b18b/)  
 
 ---
 
@@ -32,4 +31,3 @@
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ
