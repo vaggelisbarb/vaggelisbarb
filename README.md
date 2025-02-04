@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 - 🔹 **Software Developer** from Greece  
-- 🔹 Passionate about **Java, Spring Boot, and Software Development**  
+- 🔹 Passionate about **Javascript, React.js and Web Development overall**  
 - 🔹 **Lecturer in Computer Architecture**  
 - 🔹 Currently **exploring new technologies** and improving my skills  
 
