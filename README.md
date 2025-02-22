@@ -35,7 +35,7 @@
 ### **☁️ DevOps & Tools**  
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="50" height="50"/>
+  <img src="https://static.cdnlogo.com/logos/g/48/gradle.svg" title="Gradle" alt="Gradle" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Maven" alt="Maven" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
@@ -44,10 +44,9 @@
 
 ### **🧪 Testing & CI/CD**  
 <div align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JUnit" alt="JUnit" width="50" height="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mockito-logo.svg" title="Mockito" alt="Mockito" width="50" height="50"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Jasmine_logo.svg" title="Jasmine" alt="Jasmine" width="50" height="50"/>
+  <img src="https://static.cdnlogo.com/logos/j/4/jasmine.svg" title="Jasmine" alt="Jasmine" width="50" height="50"/>
 </div>  
 
 ---
