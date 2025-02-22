@@ -6,28 +6,64 @@
 
 ## 👨‍💻 About Me  
 - 🔹 **Software Developer** from Greece  
-- 🔹 Passionate about **Javascript, React.js and Web Development overall**  
+- 🔹 Passionate about **Java, Spring Boot, React.js, and Web Development**  
 - 🔹 **Lecturer in Computer Architecture**  
-- 🔹 Currently **exploring new technologies** and improving my skills  
 
-📫 **How to reach me**:  [![Linkedin Badge](https://img.shields.io/badge/-vaggelisbarb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-barmpalias-488b3b18b/)  
+📫 **How to reach me**:  
+[![Linkedin Badge](https://img.shields.io/badge/-vaggelisbarb-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evangelos-barmpalias-488b3b18b/)  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### **Languages & Frameworks**  
+### **🌐 Frontend**  
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React.js" alt="React.js" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>
+</div>  
+
+### **⚙️ Backend**  
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" alt="Spring Boot" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
-</div>
+</div>  
 
-### **Tools & Platforms**  
+### **☁️ DevOps & Tools**  
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+</div>  
+
+### **🧪 Testing & CI/CD**  
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
+</div>  
+
+---
+
+### 📊 **GitHub Stats**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvangelosBarmpalias&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EvangelosBarmpalias&theme=tokyonight" alt="GitHub Streak"/>
+</div>  
+
+---
+
+### 🎯 **Currently Working On**  
+- 🚀 **Building a Department Management System with Spring Boot & React**  
+- 🔍 **Exploring Data Engineering with Python & SQL**  
+
+---
+
+### 🌟 **Fun Fact**  
+I love problem-solving, optimizing performance, and creating user-friendly applications!  
+
+---
+
+✨ _Feel free to connect with me!_ 🚀  
