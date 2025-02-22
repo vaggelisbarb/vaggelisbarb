@@ -46,8 +46,8 @@
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JUnit" alt="JUnit" width="50" height="50"/>  
-  <img src="https://avatars.githubusercontent.com/u/12827851?s=200&v=4" title="Mockito" alt="Mockito" width="50" height="50"/>  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Jasmine" alt="Jasmine" width="50" height="50"/>
+  <img src="https://static-00.iconduck.com/assets.00/mockito-icon-512x280-1m2f1dnu.png" title="Mockito" alt="Mockito" width="50" height="50"/>  
+  <img src="https://avatars.githubusercontent.com/u/4652784?s=200&v=4" title="Jasmine" alt="Jasmine" width="50" height="50"/>
 </div>  
 
 ---
