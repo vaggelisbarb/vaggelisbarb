@@ -34,15 +34,20 @@
 
 ### **☁️ DevOps & Tools**  
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gradle/gradle-plain-wordmark.svg" title="Gradle" alt="Gradle" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" title="Maven" alt="Maven" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="50" height="50"/>
+
 </div>  
 
 ### **🧪 Testing & CI/CD**  
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="50" height="50"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="50" height="50"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JUnit" alt="JUnit" width="50" height="50"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mockito/mockito-original.svg" title="Mockito" alt="Mockito" width="50" height="50"/>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Jasmine" alt="Jasmine" width="50" height="50"/>
 </div>  
 
 ---
@@ -56,14 +61,8 @@
 ---
 
 ### 🎯 **Currently Working On**  
-- 🚀 **Building a Department Management System with Spring Boot & React**  
-- 🔍 **Exploring Data Engineering with Python & SQL**  
-
----
-
-### 🌟 **Fun Fact**  
-I love problem-solving, optimizing performance, and creating user-friendly applications!  
-
+- 🚀 **Building a Department Management System with Spring Boot & React**
+  
 ---
 
 ✨ _Feel free to connect with me!_ 🚀  
